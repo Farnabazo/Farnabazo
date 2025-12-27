@@ -1,0 +1,120 @@
+@font-face{
+    font-family: 'Comfortaa';
+    src: url('fonts/Comfortaa/Comfortaa-VariableFont_wght.ttf') format('truetype');
+}
+
+.Comfortaa {
+    font-family: 'Comfortaa'
+}
+
+p{
+    font-size: 1.1rem !important;
+}
+
+.bg-light-grey{
+    background-color: #2e2e2e;
+    color: #f5f5f5;
+}
+
+.home-image{
+    height: 100%;
+    width: 60%;
+    border-radius: 150px;
+}
+
+.soft-card-blue{
+    border-radius: 20px;
+    /*background-color: #c7dceb; celeste chiaro
+    background-color: #b0cde0; blu scuro
+    background-color: #bfbcb5; */
+    background-color: #dcc6e0;   
+    color: #333;
+}
+
+.soft-card-pink{
+    border-radius: 20px;
+    /*background-color: #6c98b6;
+    background-color: #b0cde0;
+    background-color: #fcf7ec;*/
+    background-color: #f8fdae;
+    color: #333;
+}
+
+.soft-card-green{
+    border-radius: 20px;
+    /*background-color: #6c98b6;
+    background-color: #b0cde0;
+    background-color: #bfbcb5;*/
+    background-color: #d0f5b1;
+    color: #333;
+}
+
+.soft-card-about{
+    border-radius: 0 0 20px 20px;
+    /*background-color: #6c98b6;
+    background-color: #b0cde0;
+    background-color: #bfbcb5;*/
+    background-color: #d0f5b1;
+    color: #333;
+}
+
+.bg-light-blue{
+    /*background-color: #b0cde0;
+    background-color: #bfbcb5;*/
+    background-color: #dae8f1;
+    color: #f5f5f5;
+}
+
+.about-image-container{
+    max-width: 60%;
+}
+
+.about-image{
+    border-radius: 20px;
+}
+
+.content{
+    color: #4b4a4a;
+}
+
+.justified{
+    text-align: justify;
+}
+
+.px-7{
+    padding-right: 5rem !important;
+    padding-left: 5rem !important;
+}
+
+.sheep-image{
+    max-width: 75%;
+}
+
+.contact-link{
+    color: #4b4a4a;
+    text-decoration: none;
+}
+
+.contact-link:hover{
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+.footer-link{
+    color: #f5f5f5;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+/* Soft-card hover animation: scale up slightly */
+.soft-card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.soft-card:hover {
+    transform: scale(1.05);
+}
