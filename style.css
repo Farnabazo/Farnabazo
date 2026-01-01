@@ -7,6 +7,11 @@
     font-family: 'Comfortaa'
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
+
 p{
     font-size: 1.1rem !important;
 }
@@ -56,7 +61,6 @@ p{
     background-color: #bfbcb5;*/
     background-color: #d0f5b1;
     color: #333;
-    width: 100%;
 }
 
 .bg-light-blue{
@@ -118,12 +122,4 @@ p{
 
 .soft-card:hover {
     transform: scale(1.05);
-}
-
-body {
- width: 100%;
-}
-
-footer {
-    width: 100%;
 }
