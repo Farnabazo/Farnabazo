@@ -49,8 +49,9 @@ p{
     border-radius: 20px;
     /*background-color: #6c98b6;
     background-color: #b0cde0;
-    background-color: #bfbcb5;*/
-    background-color: #d0f5b1;
+    background-color: #bfbcb5;
+    background-color: #d0f5b1;*/
+    background-color: #C1E1A6;
     color: #333;
 }
 
@@ -58,15 +59,17 @@ p{
     border-radius: 0 0 20px 20px;
     /*background-color: #6c98b6;
     background-color: #b0cde0;
-    background-color: #bfbcb5;*/
-    background-color: #d0f5b1;
+    background-color: #bfbcb5;
+    background-color: #d0f5b1;*/
+    background-color: #C1E1A6;
     color: #333;
 }
 
 .bg-light-blue{
     /*background-color: #b0cde0;
-    background-color: #bfbcb5;*/
-    background-color: #dae8f1;
+    background-color: #bfbcb5;
+    background-color: #dae8f1;*/
+    background-color: #C5E5F7;
     color: #f5f5f5;
 }
 
